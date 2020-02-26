@@ -1,565 +1,105 @@
 #EXTM3U
-#EXTINF:-1,#### RomaniaTV ####
-http://bbgtv.iptv.life:8000/marius123/marius123/2
-#EXTINF:-1,PRO TV ULTRA_HD
-http://bbgtv.iptv.life:8000/marius123/marius123/11
-#EXTINF:-1,Pro Tv HD
-http://bbgtv.iptv.life:8000/marius123/marius123/12
-#EXTINF:-1,Pro Tv
-http://bbgtv.iptv.life:8000/marius123/marius123/13
-#EXTINF:-1,Antena 1 ULTRA_HD
-http://bbgtv.iptv.life:8000/marius123/marius123/14
-#EXTINF:-1,Antena 1 HD
-http://bbgtv.iptv.life:8000/marius123/marius123/15
-#EXTINF:-1,Antena 1
-http://bbgtv.iptv.life:8000/marius123/marius123/16
-#EXTINF:-1,Antena 3 Ultra_HD
-http://bbgtv.iptv.life:8000/marius123/marius123/17
-#EXTINF:-1,Antena 3
-http://bbgtv.iptv.life:8000/marius123/marius123/18
-#EXTINF:-1,Antena Stars ULTRA_HD
-http://bbgtv.iptv.life:8000/marius123/marius123/19
-#EXTINF:-1,Antena STARS
-http://bbgtv.iptv.life:8000/marius123/marius123/20
-#EXTINF:-1,Kanal D Ultra_HD
-http://bbgtv.iptv.life:8000/marius123/marius123/21
-#EXTINF:-1,Kanal D HD
-http://bbgtv.iptv.life:8000/marius123/marius123/22
-#EXTINF:-1,KANAL D
-http://bbgtv.iptv.life:8000/marius123/marius123/23
-#EXTINF:-1,PRO 2 Ultra_HD
-http://bbgtv.iptv.life:8000/marius123/marius123/24
-#EXTINF:-1,PRO 2
-http://bbgtv.iptv.life:8000/marius123/marius123/25
-#EXTINF:-1,Happy Channel Ultra_HD
-http://bbgtv.iptv.life:8000/marius123/marius123/26
-#EXTINF:-1,Happy Channel
-http://bbgtv.iptv.life:8000/marius123/marius123/27
-#EXTINF:-1,Timeless Drama Channel HD
-http://bbgtv.iptv.life:8000/marius123/marius123/1506
-#EXTINF:-1,Timeless Drama Channel 
-http://bbgtv.iptv.life:8000/marius123/marius123/1505
-#EXTINF:-1,Pro Gold
-http://bbgtv.iptv.life:8000/marius123/marius123/28
-#EXTINF:-1,Pro Cinema
-http://bbgtv.iptv.life:8000/marius123/marius123/29
-#EXTINF:-1,Romania tv
-http://bbgtv.iptv.life:8000/marius123/marius123/30
-#EXTINF:-1,Realitatea Plus
-http://bbgtv.iptv.life:8000/marius123/marius123/31
-#EXTINF:-1,ProTv News
-http://bbgtv.iptv.life:8000/marius123/marius123/32
-#EXTINF:-1,Antena Play Cook
-http://bbgtv.iptv.life:8000/marius123/marius123/33
-#EXTINF:-1,Antena Play Comedy
-http://bbgtv.iptv.life:8000/marius123/marius123/34
-#EXTINF:-1,N 24
-http://bbgtv.iptv.life:8000/marius123/marius123/35
-#EXTINF:-1,National 24 Plus
-http://bbgtv.iptv.life:8000/marius123/marius123/36
-#EXTINF:-1,Digi 24 F_HD
-http://bbgtv.iptv.life:8000/marius123/marius123/37
-#EXTINF:-1,Digi 24
-http://bbgtv.iptv.life:8000/marius123/marius123/38
-#EXTINF:-1,Prima TV
-http://bbgtv.iptv.life:8000/marius123/marius123/39
-#EXTINF:-1,B1 Tv
-http://bbgtv.iptv.life:8000/marius123/marius123/40
-#EXTINF:-1,National TV
-http://bbgtv.iptv.life:8000/marius123/marius123/41
-#EXTINF:-1,TVR Ultra_HD
-http://bbgtv.iptv.life:8000/marius123/marius123/42
-#EXTINF:-1,TVR 3
-http://bbgtv.iptv.life:8000/marius123/marius123/43
-#EXTINF:-1,TVR 2
-http://bbgtv.iptv.life:8000/marius123/marius123/44
-#EXTINF:-1,TVR 1
-http://bbgtv.iptv.life:8000/marius123/marius123/45
-#EXTINF:-1,TVR Craiova
-http://bbgtv.iptv.life:8000/marius123/marius123/46
-#EXTINF:-1,TVR International
-http://bbgtv.iptv.life:8000/marius123/marius123/47
-#EXTINF:-1,Protv International
-http://bbgtv.iptv.life:8000/marius123/marius123/48
-#EXTINF:-1,Antena International
-http://bbgtv.iptv.life:8000/marius123/marius123/49
-#EXTINF:-1,DIGI Sport 1 Ultra_HD
-http://bbgtv.iptv.life:8000/marius123/marius123/50
-#EXTINF:-1,DIGI Sport 1 HD
-http://bbgtv.iptv.life:8000/marius123/marius123/51
-#EXTINF:-1,DIGI Sport 1
-http://bbgtv.iptv.life:8000/marius123/marius123/52
-#EXTINF:-1,DIGI Sport 2 Ultra_HD
-http://bbgtv.iptv.life:8000/marius123/marius123/53
-#EXTINF:-1,DIGI Sport 2
-http://bbgtv.iptv.life:8000/marius123/marius123/54
-#EXTINF:-1,DIGI Sport 3 Ultra_HD
-http://bbgtv.iptv.life:8000/marius123/marius123/55
-#EXTINF:-1,DIGI Sport 3
-http://bbgtv.iptv.life:8000/marius123/marius123/56
-#EXTINF:-1,DIGI Sport 4 Ultra_HD
-http://bbgtv.iptv.life:8000/marius123/marius123/57
-#EXTINF:-1,DIGI Sport 4
-http://bbgtv.iptv.life:8000/marius123/marius123/58
-#EXTINF:-1,Telekom Sport 1 Ultra_HD
-http://bbgtv.iptv.life:8000/marius123/marius123/59
-#EXTINF:-1,Telekom Sport 1 HD
-http://bbgtv.iptv.life:8000/marius123/marius123/60
-#EXTINF:-1,Telekom Sport 1
-http://bbgtv.iptv.life:8000/marius123/marius123/61
-#EXTINF:-1,Telekom Sport 2 Ultra_HD
-http://bbgtv.iptv.life:8000/marius123/marius123/62
-#EXTINF:-1,Telekom Sport 2
-http://bbgtv.iptv.life:8000/marius123/marius123/63
-#EXTINF:-1,Telekom Sport 3 ULTRA_HD
-http://bbgtv.iptv.life:8000/marius123/marius123/64
-#EXTINF:-1,Telekom Sport 3
-http://bbgtv.iptv.life:8000/marius123/marius123/65
-#EXTINF:-1,Telekom Sport 4 Ultra_HD
-http://bbgtv.iptv.life:8000/marius123/marius123/66
-#EXTINF:-1,Telekom Sport 4
-http://bbgtv.iptv.life:8000/marius123/marius123/67
-#EXTINF:-1,Eurosport 4K
-http://bbgtv.iptv.life:8000/marius123/marius123/10
-#EXTINF:-1,EuroSport 1 Romania FHD
-http://bbgtv.iptv.life:8000/marius123/marius123/68
-#EXTINF:-1,Eurosport 1 Ultra_ HD
-http://bbgtv.iptv.life:8000/marius123/marius123/69
-#EXTINF:-1,Eurosport 1
-http://bbgtv.iptv.life:8000/marius123/marius123/70
-#EXTINF:-1,Eurosport 2 Ultra_HD
-http://bbgtv.iptv.life:8000/marius123/marius123/71
-#EXTINF:-1,Eurosport 2 Romania
-http://bbgtv.iptv.life:8000/marius123/marius123/72
-#EXTINF:-1,Look Plus HD
-http://bbgtv.iptv.life:8000/marius123/marius123/73
-#EXTINF:-1,Look Plus
-http://bbgtv.iptv.life:8000/marius123/marius123/74
-#EXTINF:-1,Look Sport HD
-http://bbgtv.iptv.life:8000/marius123/marius123/75
-#EXTINF:-1,Look Sport 2 HD
-http://bbgtv.iptv.life:8000/marius123/marius123/76
-#EXTINF:-1,Look Sport 3 HD
-http://bbgtv.iptv.life:8000/marius123/marius123/77
-#EXTINF:-1,Look TV
-http://bbgtv.iptv.life:8000/marius123/marius123/78
-#EXTINF:-1,PRO X HD
-http://bbgtv.iptv.life:8000/marius123/marius123/79
-#EXTINF:-1,PRO X
-http://bbgtv.iptv.life:8000/marius123/marius123/80
-#EXTINF:-1,Auto Motor Sport
-http://bbgtv.iptv.life:8000/marius123/marius123/81
-#EXTINF:-1,Fight Box
-http://bbgtv.iptv.life:8000/marius123/marius123/82
-#EXTINF:-1,FolclorTV HD
-http://bbgtv.iptv.life:8000/marius123/marius123/1
-#EXTINF:-1,FolclorTV Action HD
-http://bbgtv.iptv.life:8000/marius123/marius123/83
-#EXTINF:-1,FolclorTV SCI-FI HD
-http://bbgtv.iptv.life:8000/marius123/marius123/84
-#EXTINF:-1,LunaTv PREMIERE HD
-http://bbgtv.iptv.life:8000/marius123/marius123/85
-#EXTINF:-1,LunaTv Action HD
-http://bbgtv.iptv.life:8000/marius123/marius123/86
-#EXTINF:-1,LunaTv SCI-FI HD
-http://bbgtv.iptv.life:8000/marius123/marius123/87
-#EXTINF:-1,LunaTv Horror HD
-http://bbgtv.iptv.life:8000/marius123/marius123/88
-#EXTINF:-1,LunaTV 4K
-http://bbgtv.iptv.life:8000/marius123/marius123/89
-#EXTINF:-1,LunaTv Comedy HD
-http://bbgtv.iptv.life:8000/marius123/marius123/90
-#EXTINF:-1,LunaTv BOLLYWOOD
-http://bbgtv.iptv.life:8000/marius123/marius123/91
-#EXTINF:-1,LunaTv HD FilmeRO
-http://bbgtv.iptv.life:8000/marius123/marius123/92
-#EXTINF:-1,Boom TV HD
-http://bbgtv.iptv.life:8000/marius123/marius123/4781
-#EXTINF:-1,HDNet Premiere
-http://bbgtv.iptv.life:8000/marius123/marius123/93
-#EXTINF:-1,HDNet Action
-http://bbgtv.iptv.life:8000/marius123/marius123/94
-#EXTINF:-1,HDNet Thriller
-http://bbgtv.iptv.life:8000/marius123/marius123/95
-#EXTINF:-1,HDNet Comedy
-http://bbgtv.iptv.life:8000/marius123/marius123/96
-#EXTINF:-1,HDNet Sci-Fi
-http://bbgtv.iptv.life:8000/marius123/marius123/97
-#EXTINF:-1,HDNet Horror
-http://bbgtv.iptv.life:8000/marius123/marius123/98
-#EXTINF:-1,HDNet Bollywood
-http://bbgtv.iptv.life:8000/marius123/marius123/100
-#EXTINF:-1,HDNet LasFierbinti
-http://bbgtv.iptv.life:8000/marius123/marius123/101
-#EXTINF:-1,HDNetRO iUmor
-http://bbgtv.iptv.life:8000/marius123/marius123/103
-#EXTINF:-1,HDNet Moldovenii TVSeries
-http://bbgtv.iptv.life:8000/marius123/marius123/4762
-#EXTINF:-1,HDNet JeanClaudeVanDamme
-http://bbgtv.iptv.life:8000/marius123/marius123/99
-#EXTINF:-1,HDNet ArnoldSchwarzenegger
-http://bbgtv.iptv.life:8000/marius123/marius123/104
-#EXTINF:-1,HDNet JasonStatham
-http://bbgtv.iptv.life:8000/marius123/marius123/2789
-#EXTINF:-1,24/7 Visuri la cheie (TV show)
-http://bbgtv.iptv.life:8000/marius123/marius123/2072
-#EXTINF:-1,24/7 Vocea Romaniei
-http://bbgtv.iptv.life:8000/marius123/marius123/2223
-#EXTINF:-1,24/7 În puii mei (TV show)
-http://bbgtv.iptv.life:8000/marius123/marius123/2783
-#EXTINF:-1,HDNet Kids
-http://bbgtv.iptv.life:8000/marius123/marius123/105
-#EXTINF:-1,Magura Media 4k
-http://bbgtv.iptv.life:8000/marius123/marius123/106
-#EXTINF:-1,Magura Media Action
-http://bbgtv.iptv.life:8000/marius123/marius123/107
-#EXTINF:-1,Magura Media Comedy
-http://bbgtv.iptv.life:8000/marius123/marius123/108
-#EXTINF:-1,Magura Media Van Damme
-http://bbgtv.iptv.life:8000/marius123/marius123/109
-#EXTINF:-1,Magura Media Kung Fu
-http://bbgtv.iptv.life:8000/marius123/marius123/110
-#EXTINF:-1,Magura SylvesterStallone
-http://bbgtv.iptv.life:8000/marius123/marius123/111
-#EXTINF:-1,Magura JetLi&BruceLee
-http://bbgtv.iptv.life:8000/marius123/marius123/112
-#EXTINF:-1,Magura KeanuReeves
-http://bbgtv.iptv.life:8000/marius123/marius123/113
-#EXTINF:-1,Magura FamilyTime
-http://bbgtv.iptv.life:8000/marius123/marius123/245
-#EXTINF:-1,Magura Media Istoric
-http://bbgtv.iptv.life:8000/marius123/marius123/114
-#EXTINF:-1,Magura Media Cinema
-http://bbgtv.iptv.life:8000/marius123/marius123/115
-#EXTINF:-1,Magura Media Supereroi
-http://bbgtv.iptv.life:8000/marius123/marius123/116
-#EXTINF:-1,MaguraMedia LasFirebinti
-http://bbgtv.iptv.life:8000/marius123/marius123/117
-#EXTINF:-1,Magura Media Bollywood
-http://bbgtv.iptv.life:8000/marius123/marius123/118
-#EXTINF:-1,Magura Media Kids
-http://bbgtv.iptv.life:8000/marius123/marius123/119
-#EXTINF:-1, Magura Media Iumor
-http://bbgtv.iptv.life:8000/marius123/marius123/120
-#EXTINF:-1,Magura Media Horror
-http://bbgtv.iptv.life:8000/marius123/marius123/121
-#EXTINF:-1,Magura Media FilmeRO
-http://bbgtv.iptv.life:8000/marius123/marius123/122
-#EXTINF:-1,Mega-Sacrificiul
-http://bbgtv.iptv.life:8000/marius123/marius123/123
-#EXTINF:-1,Mega SerieVLAD
-http://bbgtv.iptv.life:8000/marius123/marius123/124
-#EXTINF:-1,MEGA JokeBattle
-http://bbgtv.iptv.life:8000/marius123/marius123/125
-#EXTINF:-1,MEGA COMEDY HD
-http://bbgtv.iptv.life:8000/marius123/marius123/126
-#EXTINF:-1,MEGA ACTION HD
-http://bbgtv.iptv.life:8000/marius123/marius123/127
-#EXTINF:-1,StarAction HD
-http://bbgtv.iptv.life:8000/marius123/marius123/128
-#EXTINF:-1,NionTV Action
-http://bbgtv.iptv.life:8000/marius123/marius123/129
-#EXTINF:-1,NionTV Kids
-http://bbgtv.iptv.life:8000/marius123/marius123/130
-#EXTINF:-1,NionTV Comedy
-http://bbgtv.iptv.life:8000/marius123/marius123/131
-#EXTINF:-1,Skynet Aventura
-http://bbgtv.iptv.life:8000/marius123/marius123/4771
-#EXTINF:-1,Skynet Actiune
-http://bbgtv.iptv.life:8000/marius123/marius123/4772
-#EXTINF:-1,Skynet Karate
-http://bbgtv.iptv.life:8000/marius123/marius123/4773
-#EXTINF:-1,Skynet Bollywood
-http://bbgtv.iptv.life:8000/marius123/marius123/4774
-#EXTINF:-1,Skynet RomaniAuTalent
-http://bbgtv.iptv.life:8000/marius123/marius123/4775
-#EXTINF:-1,HBO F_HD
-http://bbgtv.iptv.life:8000/marius123/marius123/132
-#EXTINF:-1,HBO
-http://bbgtv.iptv.life:8000/marius123/marius123/133
-#EXTINF:-1,HBO 2 F_HD
-http://bbgtv.iptv.life:8000/marius123/marius123/134
-#EXTINF:-1,HBO 2
-http://bbgtv.iptv.life:8000/marius123/marius123/135
-#EXTINF:-1,HBO 3 F_HD
-http://bbgtv.iptv.life:8000/marius123/marius123/136
-#EXTINF:-1,HBO 3
-http://bbgtv.iptv.life:8000/marius123/marius123/137
-#EXTINF:-1,Cinemax Ultra_HD
-http://bbgtv.iptv.life:8000/marius123/marius123/138
-#EXTINF:-1,Cinemax
-http://bbgtv.iptv.life:8000/marius123/marius123/139
-#EXTINF:-1,Cinemax 2
-http://bbgtv.iptv.life:8000/marius123/marius123/140
-#EXTINF:-1,Film Now Ultra_HD
-http://bbgtv.iptv.life:8000/marius123/marius123/141
-#EXTINF:-1,Film Now HD
-http://bbgtv.iptv.life:8000/marius123/marius123/142
-#EXTINF:-1,Film Now
-http://bbgtv.iptv.life:8000/marius123/marius123/143
-#EXTINF:-1,FilmBoxExtra Ultra_HD
-http://bbgtv.iptv.life:8000/marius123/marius123/144
-#EXTINF:-1,Film Box
-http://bbgtv.iptv.life:8000/marius123/marius123/145
-#EXTINF:-1,Filmbox Family
-http://bbgtv.iptv.life:8000/marius123/marius123/146
-#EXTINF:-1,FilmBox Premium
-http://bbgtv.iptv.life:8000/marius123/marius123/147
-#EXTINF:-1,Cinemaraton
-http://bbgtv.iptv.life:8000/marius123/marius123/148
-#EXTINF:-1,Bollywood Tv HD
-http://bbgtv.iptv.life:8000/marius123/marius123/149
-#EXTINF:-1,Bollywood TV
-http://bbgtv.iptv.life:8000/marius123/marius123/150
-#EXTINF:-1,Bollywood Classic
-http://bbgtv.iptv.life:8000/marius123/marius123/151
-#EXTINF:-1,AXN RO HD
-http://bbgtv.iptv.life:8000/marius123/marius123/152
-#EXTINF:-1,Axn
-http://bbgtv.iptv.life:8000/marius123/marius123/153
-#EXTINF:-1,AXN White
-http://bbgtv.iptv.life:8000/marius123/marius123/154
-#EXTINF:-1,AXN Black
-http://bbgtv.iptv.life:8000/marius123/marius123/155
-#EXTINF:-1,AXN Spin
-http://bbgtv.iptv.life:8000/marius123/marius123/156
-#EXTINF:-1,TV 1000
-http://bbgtv.iptv.life:8000/marius123/marius123/157
-#EXTINF:-1,Diva Tv
-http://bbgtv.iptv.life:8000/marius123/marius123/158
-#EXTINF:-1,Comedy Central
-http://bbgtv.iptv.life:8000/marius123/marius123/159
-#EXTINF:-1,Paramount Channel
-http://bbgtv.iptv.life:8000/marius123/marius123/160
-#EXTINF:-1,AMC
-http://bbgtv.iptv.life:8000/marius123/marius123/161
-#EXTINF:-1,TNT
-http://bbgtv.iptv.life:8000/marius123/marius123/162
-#EXTINF:-1,Film Cafe
-http://bbgtv.iptv.life:8000/marius123/marius123/163
-#EXTINF:-1,Epic Drama HD
-http://bbgtv.iptv.life:8000/marius123/marius123/4777
-#EXTINF:-1,Epic Drama
-http://bbgtv.iptv.life:8000/marius123/marius123/164
-#EXTINF:-1,Viasat Ultra_HD
-http://bbgtv.iptv.life:8000/marius123/marius123/165
-#EXTINF:-1,History Ultra_HD
-http://bbgtv.iptv.life:8000/marius123/marius123/166
-#EXTINF:-1,Viasat History
-http://bbgtv.iptv.life:8000/marius123/marius123/167
-#EXTINF:-1,Viasat Explore
-http://bbgtv.iptv.life:8000/marius123/marius123/168
-#EXTINF:-1,BBC Earth F_HD
-http://bbgtv.iptv.life:8000/marius123/marius123/169
-#EXTINF:-1,BBC Earth
-http://bbgtv.iptv.life:8000/marius123/marius123/170
-#EXTINF:-1,DiscoveryTurboXtra Utra_HD
-http://bbgtv.iptv.life:8000/marius123/marius123/171
-#EXTINF:-1,Discovery Showcase Ultra_HD
-http://bbgtv.iptv.life:8000/marius123/marius123/172
-#EXTINF:-1,Discovery RO
-http://bbgtv.iptv.life:8000/marius123/marius123/173
-#EXTINF:-1,Discovery Science
-http://bbgtv.iptv.life:8000/marius123/marius123/174
-#EXTINF:-1,Viasat Explore HD
-http://bbgtv.iptv.life:8000/marius123/marius123/175
-#EXTINF:-1,Discovery ID
-http://bbgtv.iptv.life:8000/marius123/marius123/176
-#EXTINF:-1,Nat Geo F_HD
-http://bbgtv.iptv.life:8000/marius123/marius123/177
-#EXTINF:-1,Animal Planet F_HD
-http://bbgtv.iptv.life:8000/marius123/marius123/178
-#EXTINF:-1,Animal Planet
-http://bbgtv.iptv.life:8000/marius123/marius123/179
-#EXTINF:-1,Nat Geo Wild F_HD
-http://bbgtv.iptv.life:8000/marius123/marius123/180
-#EXTINF:-1,Nat Geo Wild
-http://bbgtv.iptv.life:8000/marius123/marius123/182
-#EXTINF:-1,Travel Channel F_HD
-http://bbgtv.iptv.life:8000/marius123/marius123/183
-#EXTINF:-1,Crime&Investigation
-http://bbgtv.iptv.life:8000/marius123/marius123/184
-#EXTINF:-1,History
-http://bbgtv.iptv.life:8000/marius123/marius123/185
-#EXTINF:-1,DocuBox
-http://bbgtv.iptv.life:8000/marius123/marius123/186
-#EXTINF:-1,DIGI ANIMAL WORLD Full_HD
-http://bbgtv.iptv.life:8000/marius123/marius123/187
-#EXTINF:-1,Digi Animal World
-http://bbgtv.iptv.life:8000/marius123/marius123/188
-#EXTINF:-1,DIGI WORLD Ultra_HD
-http://bbgtv.iptv.life:8000/marius123/marius123/189
-#EXTINF:-1,Digi World
-http://bbgtv.iptv.life:8000/marius123/marius123/190
-#EXTINF:-1,DIGI Life F_HD
-http://bbgtv.iptv.life:8000/marius123/marius123/191
-#EXTINF:-1,Digi Life
-http://bbgtv.iptv.life:8000/marius123/marius123/192
-#EXTINF:-1,ARCADIA World HD
-http://bbgtv.iptv.life:8000/marius123/marius123/193
-#EXTINF:-1,Fishing and Hunting
-http://bbgtv.iptv.life:8000/marius123/marius123/194
-#EXTINF:-1,Travel Channel
-http://bbgtv.iptv.life:8000/marius123/marius123/195
-#EXTINF:-1,CBS Reality
-http://bbgtv.iptv.life:8000/marius123/marius123/196
-#EXTINF:-1,E! Entertainment Ultra_HD
-http://bbgtv.iptv.life:8000/marius123/marius123/197
-#EXTINF:-1,E! Entertainment
-http://bbgtv.iptv.life:8000/marius123/marius123/198
-#EXTINF:-1,Travel MIX
-http://bbgtv.iptv.life:8000/marius123/marius123/199
-#EXTINF:-1,Fine Living
-http://bbgtv.iptv.life:8000/marius123/marius123/200
-#EXTINF:-1,Food Network
-http://bbgtv.iptv.life:8000/marius123/marius123/201
-#EXTINF:-1,TV Paprika
-http://bbgtv.iptv.life:8000/marius123/marius123/202
-#EXTINF:-1,TLC
-http://bbgtv.iptv.life:8000/marius123/marius123/203
-#EXTINF:-1,LunaTv HD Cartoons
-http://bbgtv.iptv.life:8000/marius123/marius123/204
-#EXTINF:-1,Nickelodeon
-http://bbgtv.iptv.life:8000/marius123/marius123/205
-#EXTINF:-1,Nick Jr
-http://bbgtv.iptv.life:8000/marius123/marius123/206
-#EXTINF:-1,Disney JR
-http://bbgtv.iptv.life:8000/marius123/marius123/207
-#EXTINF:-1,Disney Channel
-http://bbgtv.iptv.life:8000/marius123/marius123/208
-#EXTINF:-1,Minimax RO
-http://bbgtv.iptv.life:8000/marius123/marius123/209
-#EXTINF:-1,Boomerang
-http://bbgtv.iptv.life:8000/marius123/marius123/210
-#EXTINF:-1,Nicktoons
-http://bbgtv.iptv.life:8000/marius123/marius123/211
-#EXTINF:-1,MEGA KIDS
-http://bbgtv.iptv.life:8000/marius123/marius123/241
-#EXTINF:-1,24/7 Kids Disney
-http://bbgtv.iptv.life:8000/marius123/marius123/4776
-#EXTINF:-1,Cartoon Network
-http://bbgtv.iptv.life:8000/marius123/marius123/246
-#EXTINF:-1,Megamax
-http://bbgtv.iptv.life:8000/marius123/marius123/212
-#EXTINF:-1,DuckTV
-http://bbgtv.iptv.life:8000/marius123/marius123/213
-#EXTINF:-1,Jim Jam
-http://bbgtv.iptv.life:8000/marius123/marius123/214
-#EXTINF:-1,MEGA TOM&JERRY
-http://bbgtv.iptv.life:8000/marius123/marius123/215
-#EXTINF:-1,Da Vinci Learning
-http://bbgtv.iptv.life:8000/marius123/marius123/216
-#EXTINF:-1,MOOZ Dance
-http://bbgtv.iptv.life:8000/marius123/marius123/217
-#EXTINF:-1,Magura Media MANELE
-http://bbgtv.iptv.life:8000/marius123/marius123/218
-#EXTINF:-1,Luc TV Manele
-http://bbgtv.iptv.life:8000/marius123/marius123/219
-#EXTINF:-1,MTV Dance
-http://bbgtv.iptv.life:8000/marius123/marius123/220
-#EXTINF:-1,MTV Hits
-http://bbgtv.iptv.life:8000/marius123/marius123/221
-#EXTINF:-1,Hit music
-http://bbgtv.iptv.life:8000/marius123/marius123/222
-#EXTINF:-1,ZU TV Ultra_HD
-http://bbgtv.iptv.life:8000/marius123/marius123/223
-#EXTINF:-1,Zu Tv
-http://bbgtv.iptv.life:8000/marius123/marius123/224
-#EXTINF:-1,VH1
-http://bbgtv.iptv.life:8000/marius123/marius123/225
-#EXTINF:-1,UTV Full_HD
-http://bbgtv.iptv.life:8000/marius123/marius123/226
-#EXTINF:-1,U Tv
-http://bbgtv.iptv.life:8000/marius123/marius123/227
-#EXTINF:-1,Music Channel
-http://bbgtv.iptv.life:8000/marius123/marius123/228
-#EXTINF:-1,Magic TV HD
-http://bbgtv.iptv.life:8000/marius123/marius123/229
-#EXTINF:-1,AccentTV
-http://bbgtv.iptv.life:8000/marius123/marius123/230
-#EXTINF:-1,Taraf TV
-http://bbgtv.iptv.life:8000/marius123/marius123/231
-#EXTINF:-1,Etno TV
-http://bbgtv.iptv.life:8000/marius123/marius123/232
-#EXTINF:-1,Hora Tv
-http://bbgtv.iptv.life:8000/marius123/marius123/233
-#EXTINF:-1,NionTV Music
-http://bbgtv.iptv.life:8000/marius123/marius123/234
-#EXTINF:-1,Favorit Tv
-http://bbgtv.iptv.life:8000/marius123/marius123/235
-#EXTINF:-1,Credo tv
-http://bbgtv.iptv.life:8000/marius123/marius123/236
-#EXTINF:-1,Nasul TV
-http://bbgtv.iptv.life:8000/marius123/marius123/237
-#EXTINF:-1,Trinitas Tv
-http://bbgtv.iptv.life:8000/marius123/marius123/238
-#EXTINF:-1,ALFA OMEGA TV
-http://bbgtv.iptv.life:8000/marius123/marius123/239
-#EXTINF:-1,SperantaTV
-http://bbgtv.iptv.life:8000/marius123/marius123/240
-#EXTINF:-1,Bucuresti TV
-http://bbgtv.iptv.life:8000/marius123/marius123/242
-#EXTINF:-1,Neptun TV
-http://bbgtv.iptv.life:8000/marius123/marius123/243
-#EXTINF:-1,Inedit Tv
-http://bbgtv.iptv.life:8000/marius123/marius123/244
-#EXTINF:-1,#### HungariaTv ####
-http://bbgtv.iptv.life:8000/marius123/marius123/3
-#EXTINF:-1,HU: M1
-http://bbgtv.iptv.life:8000/marius123/marius123/247
-#EXTINF:-1,HU: M2 Petofi
-http://bbgtv.iptv.life:8000/marius123/marius123/248
-#EXTINF:-1,HU: RTL Klub
-http://bbgtv.iptv.life:8000/marius123/marius123/249
-#EXTINF:-1,HU: RTL Spike
-http://bbgtv.iptv.life:8000/marius123/marius123/250
-#EXTINF:-1,HU: Moziverzum
-http://bbgtv.iptv.life:8000/marius123/marius123/251
-#EXTINF:-1,HU: DIGI Film
-http://bbgtv.iptv.life:8000/marius123/marius123/252
-#EXTINF:-1,HU: HBO
-http://bbgtv.iptv.life:8000/marius123/marius123/253
-#EXTINF:-1,HU: HBO 2
-http://bbgtv.iptv.life:8000/marius123/marius123/254
-#EXTINF:-1,HU: FilmBox Premium
-http://bbgtv.iptv.life:8000/marius123/marius123/255
-#EXTINF:-1,HU: Filmbox
-http://bbgtv.iptv.life:8000/marius123/marius123/256
-#EXTINF:-1,HU: Film 4
-http://bbgtv.iptv.life:8000/marius123/marius123/257
-#EXTINF:-1,HU: Extreme Sports Channel
-http://bbgtv.iptv.life:8000/marius123/marius123/258
-#EXTINF:-1,HU: DIGI Sport 1
-http://bbgtv.iptv.life:8000/marius123/marius123/259
-#EXTINF:-1,HU: DIGI Sport 2
-http://bbgtv.iptv.life:8000/marius123/marius123/260
-#EXTINF:-1,HU: DIGI Sport 3
-http://bbgtv.iptv.life:8000/marius123/marius123/261
-#EXTINF:-1,HU: Eurosport 2
-http://bbgtv.iptv.life:8000/marius123/marius123/262
-#EXTINF:-1,HU: Sport 1
-http://bbgtv.iptv.life:8000/marius123/marius123/263
-#EXTINF:-1,HU: Spiler TV
-http://bbgtv.iptv.life:8000/marius123/marius123/264
-#EXTINF:-1,HU: MTV Hungary
-http://bbgtv.iptv.life:8000/marius123/marius123/265
-#EXTINF:-1,HU: DTX
-http://bbgtv.iptv.life:8000/marius123/marius123/266
-#EXTINF:-1,HU: DIGI World
-http://bbgtv.iptv.life:8000/marius123/marius123/267
-#EXTINF:-1,HU: Discovery Science
-http://bbgtv.iptv.life:8000/marius123/marius123/268
-#EXTINF:-1,HU: Viasat Nature
-http://bbgtv.iptv.life:8000/marius123/marius123/269
-#EXTINF:-1,HU: NatGeo Wild
-http://bbgtv.iptv.life:8000/marius123/marius123/270
-#EXTINF:-1,HU: Tv Paprika
-http://bbgtv.iptv.life:8000/marius123/marius123/272
-#EXTINF:-1,HU: Magyar Slager
-http://bbgtv.iptv.life:8000/marius123/marius123/273
-#EXTINF:-1,HU: Disney Channel
-http://bbgtv.iptv.life:8000/marius123/marius123/274
-#EXTINF:-1,HU: Nick Jr
-http://bbgtv.iptv.life:8000/marius123/marius123/275
-#EXTINF:-1,HU: Cool TV
-http://bbgtv.iptv.life:8000/marius123/marius123/276
+#EXTINF:-1,RO: U TV
+http://live.redfhd.com:8000/Giacomo/i5pWdg8WBL/23601
+#EXTINF:-1,RO:KANAL D
+http://live.redfhd.com:8000/Giacomo/i5pWdg8WBL/2168
+#EXTINF:-1,RO: Antena 1
+http://live.redfhd.com:8000/Giacomo/i5pWdg8WBL/23605
+#EXTINF:-1,RO: Antena 3
+http://live.redfhd.com:8000/Giacomo/i5pWdg8WBL/23606
+#EXTINF:-1,RO: Look Tv
+http://live.redfhd.com:8000/Giacomo/i5pWdg8WBL/23603
+#EXTINF:-1,RO: Look Plus
+http://live.redfhd.com:8000/Giacomo/i5pWdg8WBL/23604
+#EXTINF:-1,RO:PRO TV
+http://live.redfhd.com:8000/Giacomo/i5pWdg8WBL/4797
+#EXTINF:-1,RO:PRO CINEMA
+http://live.redfhd.com:8000/Giacomo/i5pWdg8WBL/4798
+#EXTINF:-1,RO: Viasat Nature
+http://live.redfhd.com:8000/Giacomo/i5pWdg8WBL/23600
+#EXTINF:-1,RO: Acasa TV
+http://live.redfhd.com:8000/Giacomo/i5pWdg8WBL/23607
+#EXTINF:-1,RO: Megamax
+http://live.redfhd.com:8000/Giacomo/i5pWdg8WBL/23602
+#EXTINF:-1,RO: Prima Tv
+http://live.redfhd.com:8000/Giacomo/i5pWdg8WBL/23599
+#EXTINF:-1,RO:Romania TV
+http://live.redfhd.com:8000/Giacomo/i5pWdg8WBL/2158
+#EXTINF:-1,RO:Realitatea TV
+http://live.redfhd.com:8000/Giacomo/i5pWdg8WBL/2159
+#EXTINF:-1,RO:Antena Stars
+http://live.redfhd.com:8000/Giacomo/i5pWdg8WBL/2163
+#EXTINF:-1,RO:TVR1
+http://live.redfhd.com:8000/Giacomo/i5pWdg8WBL/2146
+#EXTINF:-1,RO:TVR2
+http://live.redfhd.com:8000/Giacomo/i5pWdg8WBL/2147
+#EXTINF:-1,RO:ETNO TV
+http://live.redfhd.com:8000/Giacomo/i5pWdg8WBL/2145
+#EXTINF:-1,RO:TV 1000
+http://live.redfhd.com:8000/Giacomo/i5pWdg8WBL/2148
+#EXTINF:-1,RO:Taraf TV
+http://live.redfhd.com:8000/Giacomo/i5pWdg8WBL/2157
+#EXTINF:-1,RO:Viasat History
+http://live.redfhd.com:8000/Giacomo/i5pWdg8WBL/2142
+#EXTINF:-1,HBO 1 HD RO
+http://live.redfhd.com:8000/Giacomo/i5pWdg8WBL/4799
+#EXTINF:-1,RO:HBO 2
+http://live.redfhd.com:8000/Giacomo/i5pWdg8WBL/2152
+#EXTINF:-1,RO:HBO 3
+http://live.redfhd.com:8000/Giacomo/i5pWdg8WBL/4800
+#EXTINF:-1,RO:B1
+http://live.redfhd.com:8000/Giacomo/i5pWdg8WBL/2153
+#EXTINF:-1,RO:Digi World
+http://live.redfhd.com:8000/Giacomo/i5pWdg8WBL/2171
+#EXTINF:-1,RO:Digi Life
+http://live.redfhd.com:8000/Giacomo/i5pWdg8WBL/2154
+#EXTINF:-1,RO:DIGI Animal World
+http://live.redfhd.com:8000/Giacomo/i5pWdg8WBL/2155
+#EXTINF:-1,RO:Digi 24 HD
+http://live.redfhd.com:8000/Giacomo/i5pWdg8WBL/2156
+#EXTINF:-1,RO:AXN White
+http://live.redfhd.com:8000/Giacomo/i5pWdg8WBL/2139
+#EXTINF:-1,RO:AXN Black
+http://live.redfhd.com:8000/Giacomo/i5pWdg8WBL/2141
+#EXTINF:-1,RO:AXN Spin
+http://live.redfhd.com:8000/Giacomo/i5pWdg8WBL/2140
+#EXTINF:-1,RO:Paramount Channel
+http://live.redfhd.com:8000/Giacomo/i5pWdg8WBL/2165
+#EXTINF:-1,RO:Music Channel
+http://live.redfhd.com:8000/Giacomo/i5pWdg8WBL/2169
+#EXTINF:-1,RO:MiniMax
+http://live.redfhd.com:8000/Giacomo/i5pWdg8WBL/2144
+#EXTINF:-1,RO:Kiss TV
+http://live.redfhd.com:8000/Giacomo/i5pWdg8WBL/2167
+#EXTINF:-1,RO:Happy Channel
+http://live.redfhd.com:8000/Giacomo/i5pWdg8WBL/2134
+#EXTINF:-1,RO:Fishing & Hunting
+http://live.redfhd.com:8000/Giacomo/i5pWdg8WBL/2162
+#EXTINF:-1,RO:Music Channel HU
+http://live.redfhd.com:8000/Giacomo/i5pWdg8WBL/2136
+#EXTINF:-1,RO:National Geographic
+http://live.redfhd.com:8000/Giacomo/i5pWdg8WBL/2149
+#EXTINF:-1,RO:Nat Geo Wild
+http://live.redfhd.com:8000/Giacomo/i5pWdg8WBL/2150
+#EXTINF:-1,RO:Nickelodeon
+http://live.redfhd.com:8000/Giacomo/i5pWdg8WBL/2166
+#EXTINF:-1,RO:Disney Junior
+http://live.redfhd.com:8000/Giacomo/i5pWdg8WBL/2170
+#EXTINF:-1,RO: PRO X
+http://live.redfhd.com:8000/Giacomo/i5pWdg8WBL/2164
+#EXTINF:-1,RO:Eurosport 2
+http://live.redfhd.com:8000/Giacomo/i5pWdg8WBL/2161
+#EXTINF:-1,RO:Sport Klub 1
+http://live.redfhd.com:8000/Giacomo/i5pWdg8WBL/2174
+#EXTINF:-1,RO:Sport Klub 2
+http://live.redfhd.com:8000/Giacomo/i5pWdg8WBL/2173
+#EXTINF:-1,RO:Sport Klub 3
+http://live.redfhd.com:8000/Giacomo/i5pWdg8WBL/2172
+#EXTINF:-1,RO:DIGI SPORT 1 HD
+http://live.redfhd.com:8000/Giacomo/i5pWdg8WBL/1334
+#EXTINF:-1,RO:DIGI SPORT 2 HD
+http://live.redfhd.com:8000/Giacomo/i5pWdg8WBL/1337
+#EXTINF:-1,RO:DIGI SPORT 3 HD
+http://live.redfhd.com:8000/Giacomo/i5pWdg8WBL/1335
+#EXTINF:-1,RO:DIGI SPORT 4 HD
+http://live.redfhd.com:8000/Giacomo/i5pWdg8WBL/1336
