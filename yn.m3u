@@ -1,198 +1,59 @@
 #EXTM3U
-#EXTINF:-1,RO | AXN Black
-http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/8047
-#EXTINF:-1,RO | AXN Romania
-http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/8048
-#EXTINF:-1,RO | Paramount Channel
-http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/8049
-#EXTINF:-1,RO | Agro TV
-http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/8050
-#EXTINF:-1,RO | Antena 1
-http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/8051
-#EXTINF:-1,RO | Antena 3
-http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/8052
-#EXTINF:-1,RO | Antena Stars
-http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/8053
-#EXTINF:-1,RO | B1 TV
-http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/8054
-#EXTINF:-1,RO | Boomerang
-http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/8055
-#EXTINF:-1,RO | CineMax 2
-http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/8058
-#EXTINF:-1,RO | Comedy Central
-http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/8059
-#EXTINF:-1,RO | DIGI Sport 1 HD
-http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/8060
-#EXTINF:-1,RO | Digi 24
-http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/8061
-#EXTINF:-1,RO | Digi Animal World
-http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/8062
-#EXTINF:-1,RO | Animal Planet HD
-http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/8063
-#EXTINF:-1,RO | Alfa Omega TV
-http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/8064
-#EXTINF:-1,RO | Film CAFE
-http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/8065
-#EXTINF:-1,RO | Digi Life
-http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/8066
-#EXTINF:-1,RO | Digi Sport 2
-http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/8067
-#EXTINF:-1,RO | Digi Sport 3
-http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/8068
-#EXTINF:-1,RO | Digi Sport 4
-http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/8069
-#EXTINF:-1,RO | Digi World
-http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/8070
-#EXTINF:-1,RO | Disney Junior
-http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/8071
-#EXTINF:-1,RO | Etno TV
-http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/8072
-#EXTINF:-1,RO | EuroSport 1
-http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/8073
-#EXTINF:-1,RO | EuroSport 2
-http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/8074
-#EXTINF:-1,RO | Favorit TV
-http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/8075
-#EXTINF:-1,RO | Fishing & Hunting
-http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/8076
-#EXTINF:-1,RO | HBO  ROMANIA
-http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/8077
-#EXTINF:-1,RO | HBO 2
-http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/8078
-#EXTINF:-1,RO | HBO 3
-http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/8079
-#EXTINF:-1,RO | Happy Channel
-http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/8080
-#EXTINF:-1,RO | History Channel
-http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/8081
-#EXTINF:-1,RO | Kanal D
-http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/8082
-#EXTINF:-1,RO | Look Plus
-http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/8083
-#EXTINF:-1,RO | Nat Geo Wild
-http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/8084
-#EXTINF:-1,RO | Viasat History
-http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/8085
-#EXTINF:-1,RO | Viasat Explore
-http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/8086
-#EXTINF:-1,RO | TELEKOM SPORT 1
-http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/8087
-#EXTINF:-1,RO | TELEKOM SPORT 2
-http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/8088
-#EXTINF:-1,RO | TELEKOM SPORT 4
-http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/8089
-#EXTINF:-1,RO | PRO X
-http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/8091
+#EXTINF:-1,RO | TV 1000
+http://p4.giffy.be:8080/live/peru12/peru12/63542.m3u8
+#EXTINF:-1,RO | Happy Channel FHD
+http://p4.giffy.be:8080/live/peru12/peru12/63543.m3u8
+#EXTINF:-1,RO | Megamax
+http://p4.giffy.be:8080/live/peru12/peru12/63544.m3u8
+#EXTINF:-1,RO | Minimax
+http://p4.giffy.be:8080/live/peru12/peru12/63545.m3u8
 #EXTINF:-1,RO | TVR 1
-http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/8092
-#EXTINF:-1,RO | Romania TV
-http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/8093
+http://p4.giffy.be:8080/live/peru12/peru12/63546.m3u8
 #EXTINF:-1,RO | TVR 2
-http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/8094
-#EXTINF:-1,RO | Taraf TV
-http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/8095
-#EXTINF:-1,RO | 1 Music Channel
-http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/8096
-#EXTINF:-1,RO | Acum TV
-http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/8097
-#EXTINF:-1,RO | Antena Comedy
-http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/8098
-#EXTINF:-1,RO | B1
-http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/8099
-#EXTINF:-1,RO | Canal33
-http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/8100
-#EXTINF:-1,RO | Columna
-http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/8101
-#EXTINF:-1,RO | Credo TV
-http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/8102
-#EXTM3U
-#EXTINF:-1,RO: Telekom Sport 1
-http://rexshx.com:25461/live/talemaher/XiggVU03u5/1506.ts
-#EXTINF:-1,RO: Telekom Sport 2
-http://rexshx.com:25461/live/talemaher/XiggVU03u5/1507.ts
-#EXTINF:-1,RO: Telekom Sport 3
-http://rexshx.com:25461/live/talemaher/XiggVU03u5/1508.ts
-#EXTINF:-1,RO: Telekom Sport 4
-http://rexshx.com:25461/live/talemaher/XiggVU03u5/1509.ts
-#EXTINF:-1,RO: Digi Sport 1 HD
-http://rexshx.com:25461/live/talemaher/XiggVU03u5/1479.ts
-#EXTINF:-1,RO: Digi Sport 2
-http://rexshx.com:25461/live/talemaher/XiggVU03u5/1480.ts
-#EXTINF:-1,RO: Digi Sport 3
-http://rexshx.com:25461/live/talemaher/XiggVU03u5/1481.ts
-#EXTINF:-1,RO: Digi Sport 4
-http://rexshx.com:25461/live/talemaher/XiggVU03u5/1482.ts
-#EXTINF:-1,RO: Eurosport 1
-http://rexshx.com:25461/live/talemaher/XiggVU03u5/1485.ts
-#EXTINF:-1,RO: Eurosport 2
-http://rexshx.com:25461/live/talemaher/XiggVU03u5/1486.ts
-#EXTINF:-1,RO: TVR 1
-http://rexshx.com:25461/live/talemaher/XiggVU03u5/1460.ts
-#EXTINF:-1,RO: TVR 2
-http://rexshx.com:25461/live/talemaher/XiggVU03u5/1461.ts
-#EXTINF:-1,RO: TVR 3
-http://rexshx.com:25461/live/talemaher/XiggVU03u5/1462.ts
-#EXTINF:-1,RO: ZU TV
-http://rexshx.com:25461/live/talemaher/XiggVU03u5/1505.ts
-#EXTINF:-1,RO: TV Paprika
-http://rexshx.com:25461/live/talemaher/XiggVU03u5/1501.ts
-#EXTINF:-1,RO: TNT
-http://rexshx.com:25461/live/talemaher/XiggVU03u5/1499.ts
-#EXTINF:-1,RO: Taraf
-http://rexshx.com:25461/live/talemaher/XiggVU03u5/1464.ts
-#EXTINF:-1,RO: Pro TV
-http://rexshx.com:25461/live/talemaher/XiggVU03u5/1497.ts
-#EXTINF:-1,RO: Prima TV
-http://rexshx.com:25461/live/talemaher/XiggVU03u5/1495.ts
-#EXTINF:-1,RO: National TV
-http://rexshx.com:25461/live/talemaher/XiggVU03u5/1463.ts
-#EXTINF:-1,RO: Megamax
-http://rexshx.com:25461/live/talemaher/XiggVU03u5/1494.ts
-#EXTINF:-1,RO: Look Plus
-http://rexshx.com:25461/live/talemaher/XiggVU03u5/1493.ts
-#EXTINF:-1,RO: Kiss TV
-http://rexshx.com:25461/live/talemaher/XiggVU03u5/1492.ts
-#EXTINF:-1,RO: Kanal D
-http://rexshx.com:25461/live/talemaher/XiggVU03u5/1491.ts
-#EXTINF:-1,RO: TV1000
-http://rexshx.com:25461/live/talemaher/XiggVU03u5/1502.ts
-#EXTINF:-1,RO: History Channel
-http://rexshx.com:25461/live/talemaher/XiggVU03u5/1490.ts
-#EXTINF:-1,RO: Viasat History
-http://rexshx.com:25461/live/talemaher/XiggVU03u5/1503.ts
-#EXTINF:-1,RO: Etno TV
-http://rexshx.com:25461/live/talemaher/XiggVU03u5/1484.ts
-#EXTINF:-1,RO: Disney Junior
-http://rexshx.com:25461/live/talemaher/XiggVU03u5/1483.ts
-#EXTINF:-1,RO: HBO 3
-http://rexshx.com:25461/live/talemaher/XiggVU03u5/1489.ts
-#EXTINF:-1,RO: HBO 2
-http://rexshx.com:25461/live/talemaher/XiggVU03u5/1488.ts
-#EXTINF:-1,RO: HBO 1
-http://rexshx.com:25461/live/talemaher/XiggVU03u5/1487.ts
-#EXTINF:-1,RO: Favorit TV
-http://rexshx.com:25461/live/talemaher/XiggVU03u5/1465.ts
-#EXTINF:-1,RO: Digi Animal World
-http://rexshx.com:25461/live/talemaher/XiggVU03u5/1477.ts
-#EXTINF:-1,RO: Digi 24
-http://rexshx.com:25461/live/talemaher/XiggVU03u5/1476.ts
-#EXTINF:-1,RO: Cinemax 1
-http://rexshx.com:25461/live/talemaher/XiggVU03u5/1474.ts
-#EXTINF:-1,RO: Cinemax 2
-http://rexshx.com:25461/live/talemaher/XiggVU03u5/1475.ts
-#EXTINF:-1,RO: Antena 1
-http://rexshx.com:25461/live/talemaher/XiggVU03u5/1467.ts
-#EXTINF:-1,RO: Antena 3
-http://rexshx.com:25461/live/talemaher/XiggVU03u5/1468.ts
-#EXTINF:-1,RO: Antena Stars
-http://rexshx.com:25461/live/talemaher/XiggVU03u5/1469.ts
-#EXTINF:-1,RO: 1 Music Channel
-http://rexshx.com:25461/live/talemaher/XiggVU03u5/1466.ts
-#EXTINF:-1,RO: Boomerang
-http://rexshx.com:25461/live/talemaher/XiggVU03u5/1473.ts
-#EXTINF:-1,RO: B1
-http://rexshx.com:25461/live/talemaher/XiggVU03u5/1472.ts
-#EXTINF:-1,RO: AXN White
-http://rexshx.com:25461/live/talemaher/XiggVU03u5/1471.ts
-#EXTINF:-1,RO: AXN
-http://rexshx.com:25461/live/talemaher/XiggVU03u5/1470.ts
+http://p4.giffy.be:8080/live/peru12/peru12/63547.m3u8
+#EXTINF:-1,RO | TVR 3
+http://p4.giffy.be:8080/live/peru12/peru12/63548.m3u8
+#EXTINF:-1,RO | TVR International
+http://p4.giffy.be:8080/live/peru12/peru12/63549.m3u8
+#EXTINF:-1,RO | Romania TV
+http://p4.giffy.be:8080/live/peru12/peru12/63550.m3u8
+#EXTINF:-1,RO | B1 TV
+http://p4.giffy.be:8080/live/peru12/peru12/63551.m3u8
+#EXTINF:-1,RO | Antena 1
+http://p4.giffy.be:8080/live/peru12/peru12/63552.m3u8
+#EXTINF:-1,RO | Antena 3
+http://p4.giffy.be:8080/live/peru12/peru12/63553.m3u8
+#EXTINF:-1,RO | Antena Stars
+http://p4.giffy.be:8080/live/peru12/peru12/63554.m3u8
+#EXTINF:-1,RO | PRO 2 HD
+http://p4.giffy.be:8080/live/peru12/peru12/63555.m3u8
+#EXTINF:-1,RO | PRO TV
+http://p4.giffy.be:8080/live/peru12/peru12/63556.m3u8
+#EXTINF:-1,RO | PRO TV INTERNATIONAL
+http://p4.giffy.be:8080/live/peru12/peru12/63557.m3u8
+#EXTINF:-1,RO | PRO GOLD
+http://p4.giffy.be:8080/live/peru12/peru12/63559.m3u8
+#EXTINF:-1,RO | Prima TV
+http://p4.giffy.be:8080/live/peru12/peru12/63560.m3u8
+#EXTINF:-1,RO | Prima Love
+http://p4.giffy.be:8080/live/peru12/peru12/63561.m3u8
+#EXTINF:-1,RO | Prima Cool
+http://p4.giffy.be:8080/live/peru12/peru12/63562.m3u8
+#EXTINF:-1,RO | DIGI Sport 1
+http://p4.giffy.be:8080/live/peru12/peru12/63563.m3u8
+#EXTINF:-1,RO | DIGI Sport 1 HD
+http://p4.giffy.be:8080/live/peru12/peru12/63564.m3u8
+#EXTINF:-1,RO | DIGI Sport 2
+http://p4.giffy.be:8080/live/peru12/peru12/63565.m3u8
+#EXTINF:-1,RO | DIGI Sport 2 HD
+http://p4.giffy.be:8080/live/peru12/peru12/63566.m3u8
+#EXTINF:-1,RO | DIGI Sport 4
+http://p4.giffy.be:8080/live/peru12/peru12/63567.m3u8
+#EXTINF:-1,RO | Telekom Sport 1
+http://p4.giffy.be:8080/live/peru12/peru12/63568.m3u8
+#EXTINF:-1,RO | Telekom Sport 2
+http://p4.giffy.be:8080/live/peru12/peru12/63569.m3u8
+#EXTINF:-1,RO | Telekom Sport 3
+http://p4.giffy.be:8080/live/peru12/peru12/63570.m3u8
+#EXTINF:-1,RO | Telekom Sport 4
+http://p4.giffy.be:8080/live/peru12/peru12/63571.m3u8
